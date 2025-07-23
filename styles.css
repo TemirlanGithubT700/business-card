@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.profile-image{
+    width: 150px;
+}
+.card {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: #2b2839;
+    background: #588157;
+    border-bottom: 12px solid #a3b18a;
+    border-left: 9px double #3a5a40;
+}
+.italic{
+    font-style: italic;
+}
+
